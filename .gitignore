@@ -290,3 +290,4 @@ cython_debug/
 # pixi environments
 .pixi
 *.egg-info
+the-verdict.txt
